@@ -1,3 +1,8 @@
 .env
 *.env
 curso_1_openai/
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
